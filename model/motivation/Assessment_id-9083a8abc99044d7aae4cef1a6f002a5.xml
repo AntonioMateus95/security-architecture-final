@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CVE-2025-9501"
+    id="id-9083a8abc99044d7aae4cef1a6f002a5">
+  <properties
+      key="tipo"
+      value="Vulnerabilidade"/>
+</archimate:Assessment>

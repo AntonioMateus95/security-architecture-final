@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execução de comando PHP por usuários não autenticados"
+    id="id-101a53a7e6824f568ffdba15067a403c">
+  <properties
+      key="tipo"
+      value="Risco"/>
+</archimate:Assessment>

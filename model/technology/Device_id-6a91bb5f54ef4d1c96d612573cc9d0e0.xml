@@ -1,5 +1,5 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Servidor do banco de dados"
+    name="Servidor do Banco de Dados"
     id="id-6a91bb5f54ef4d1c96d612573cc9d0e0"
     documentation="Existe uma vulnerabilidade porque o BD está dentro da DMZ"/>

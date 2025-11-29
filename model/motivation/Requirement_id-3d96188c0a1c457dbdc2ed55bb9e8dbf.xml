@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Atualizar plugin W3 Total Cache do WordPress para versão 2.8.13+"
+    id="id-3d96188c0a1c457dbdc2ed55bb9e8dbf">
+  <properties
+      key="tipo"
+      value="Medida de controle"/>
+</archimate:Requirement>

@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usuário escreve comentário com payload malicioso"
+    id="id-47abc65fbc3745dbbfadbdc9825618f6">
+  <properties
+      key="tipo"
+      value="Ameaça"/>
+</archimate:BusinessEvent>

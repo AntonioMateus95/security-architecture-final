@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prevenir execução de código malicioso"
+    id="id-acedc2e6fd4647a2abb5903092c734a4">
+  <properties
+      key="tipo"
+      value="Objetivo de controle"/>
+</archimate:Goal>

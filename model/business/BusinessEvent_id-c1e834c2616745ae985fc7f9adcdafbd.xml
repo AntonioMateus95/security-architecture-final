@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Injeção de comando PHP"
+    id="id-c1e834c2616745ae985fc7f9adcdafbd">
+  <properties
+      key="tipo"
+      value="Incidente"/>
+</archimate:BusinessEvent>
