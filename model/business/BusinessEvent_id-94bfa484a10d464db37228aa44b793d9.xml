@@ -1,4 +1,8 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;Incidente> Acesso direto ao MySQL a partir da DMZ (movimentação lateral / exploração remota)"
-    id="id-94bfa484a10d464db37228aa44b793d9"/>
+    name="Acesso direto ao MySQL a partir da DMZ (movimentação lateral / exploração remota)"
+    id="id-94bfa484a10d464db37228aa44b793d9">
+  <properties
+      key="tipo"
+      value="Incidente"/>
+</archimate:BusinessEvent>

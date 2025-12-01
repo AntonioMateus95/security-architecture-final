@@ -1,4 +1,8 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;Vulnerabilidade> Banco de dados exposto na DMZ"
-    id="id-d21530a3d6ab4b47906e4a1951efbbc0"/>
+    name="Banco de dados exposto na DMZ"
+    id="id-d21530a3d6ab4b47906e4a1951efbbc0">
+  <properties
+      key="tipo"
+      value="Vulnerabilidade"/>
+</archimate:Assessment>

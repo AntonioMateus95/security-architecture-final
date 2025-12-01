@@ -1,4 +1,8 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;Ameaça> Atacante que explora o WordPress na DMZ e se movimenta lateralmente"
-    id="id-fceef7c17cc04774b9410e4af4235a01"/>
+    name="Atacante que explora o WordPress na DMZ e se movimenta lateralmente"
+    id="id-fceef7c17cc04774b9410e4af4235a01">
+  <properties
+      key="tipo"
+      value="Ameaça"/>
+</archimate:BusinessEvent>

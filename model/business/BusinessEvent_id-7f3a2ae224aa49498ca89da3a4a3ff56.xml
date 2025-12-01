@@ -1,4 +1,8 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;Ameaça> Atacante  pode causar o travamento ou a falha repetida e frequente (negação de serviço completa) do MySQL Server"
-    id="id-7f3a2ae224aa49498ca89da3a4a3ff56"/>
+    name="Atacante  pode causar o travamento ou a falha repetida e frequente (negação de serviço completa) do MySQL Server"
+    id="id-7f3a2ae224aa49498ca89da3a4a3ff56">
+  <properties
+      key="tipo"
+      value="Ameaça"/>
+</archimate:BusinessEvent>
