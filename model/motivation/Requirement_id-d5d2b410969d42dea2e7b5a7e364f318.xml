@@ -1,8 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Atualizar com Critial Patch Updates disponibilizado pela oracle"
+    name="Atualizar o MySQL Server para a versão 8.0.32+"
     id="id-d5d2b410969d42dea2e7b5a7e364f318">
   <properties
       key="tipo"
-      value="Medida de Controle"/>
+      value="Medida de controle"/>
 </archimate:Requirement>

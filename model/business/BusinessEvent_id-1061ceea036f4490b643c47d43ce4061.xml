@@ -1,6 +1,6 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="atacante com altos privilégios e acesso à rede por meio de múltiplos protocolos comprometa o MySQL Server."
+    name="Atacante com altos privilégios e acesso à rede por meio de múltiplos protocolos compromete o MySQL Server."
     id="id-1061ceea036f4490b643c47d43ce4061">
   <properties
       key="tipo"

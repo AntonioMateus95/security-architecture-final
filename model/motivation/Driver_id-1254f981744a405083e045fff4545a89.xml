@@ -1,8 +1,8 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prevenir o acesso priveligiado"
+    name="Garantir alta disponibilidade do servidor do banco de dados"
     id="id-1254f981744a405083e045fff4545a89">
   <properties
       key="tipo"
-      value="Objetivo de Controle"/>
+      value="Objetivo de controle"/>
 </archimate:Driver>
